@@ -9,4 +9,3 @@ meuSmartphoneApple.InstalarAplicativo("DIO");
 meuNokia.Ligar();
 meuNokia.InstalarAplicativo("Linkedin");
 
-Console.ReadLine();
